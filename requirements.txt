@@ -1,0 +1,10 @@
+tensorflow==2.20.0
+tensorflow-hub==0.16.1
+tensorflow-datasets
+tensorflow-docs
+numpy
+pandas
+matplotlib
+scikit-learn
+ipython
+jupyter
