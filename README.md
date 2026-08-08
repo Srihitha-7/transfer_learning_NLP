@@ -148,6 +148,3 @@ This repository represents the code as it currently exists in the supplied Colab
 
 If you want a **true fine-tuning version**, the embedding module should be incorporated into a Keras model as a trainable layer and its weights should be allowed to update during `model.fit()`.
 
-## License
-
-MIT License.
