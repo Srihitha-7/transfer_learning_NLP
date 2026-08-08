@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorBoard
+tensorboard_logs/
+logs/
+*.tfevents.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local datasets / model artifacts
+data/
+datasets/
+models/
+checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example

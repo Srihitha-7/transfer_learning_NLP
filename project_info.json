@@ -1,0 +1,15 @@
+{
+  "name": "tensorflow-hub-text-classification",
+  "framework": "TensorFlow/Keras",
+  "dataset_rows": 1306122,
+  "train_samples": 13061,
+  "validation_samples": 1293,
+  "random_state": 42,
+  "embedding_models": [
+    "gnews-swivel-20dim",
+    "nnlm-en-dim50",
+    "nnlm-en-dim128",
+    "universal-sentence-encoder",
+    "universal-sentence-encoder-large"
+  ]
+}
